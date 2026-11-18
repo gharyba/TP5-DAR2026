@@ -1,0 +1,5 @@
+Connexion au service RMI...
+
+Montant en euros : 500.0
+
+Montant converti en dinars : 1500.0

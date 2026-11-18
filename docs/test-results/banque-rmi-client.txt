@@ -1,0 +1,4 @@
+﻿Compte 101 cr��.
+Compte 101 - solde : 1000.0 - date de cr�ation : Wed Nov 18 21:42:21 WAT 2026
+Le compte 101 existe d�j�.
+Compte 999 introuvable.

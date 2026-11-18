@@ -1,0 +1,4 @@
+Connexion au service RMI...
+
+Service de conversion indisponible : Connection refused to host: localhost; nested exception is:
+	java.net.ConnectException: Connection refused: connect

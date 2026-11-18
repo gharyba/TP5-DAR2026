@@ -1,0 +1,1 @@
+Service bancaire RMI et JNDI disponible sur le port 1099.
